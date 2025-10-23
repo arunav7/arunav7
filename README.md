@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunav7&label=Profile%20views&color=0e75b6&style=flat" alt="arunav7" /> </p>
 
-- 🔭 I’m currently working on **React-Native**
+- 🔭 I’m currently working on **React-Native, GraphQL Client and Server**
 
-- 🌱 I’m currently learning **Next.js, React-Native**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React, Javascript, Typescript**
 
